@@ -7,4 +7,5 @@ The echo distraction at the microphone is being suppressed significantly through
 Those using this code are kindly requested to site our paper on this topic::
 
 PV Muhammed Shifas, EP Jayakumar, PS Sathidevi
-"Robust Acoustic Echo Suppression in Modulation Domain"
+"Robust Acoustic Echo Suppression in Modulation Domain", 
+Progress in Intelligent Computing Techniques: Theory, Practice, and Applications.
