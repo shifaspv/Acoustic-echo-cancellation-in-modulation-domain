@@ -8,4 +8,5 @@ Those using this code are kindly requested to site our paper on this topic::
 
 PV Muhammed Shifas, EP Jayakumar, PS Sathidevi
 "Robust Acoustic Echo Suppression in Modulation Domain", 
-Progress in Intelligent Computing Techniques: Theory, Practice, and Applications.
+Progress in Intelligent Computing Techniques: Theory, Practice, and Applications,
+Springer, Singapore
