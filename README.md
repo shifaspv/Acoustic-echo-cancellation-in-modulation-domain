@@ -4,7 +4,7 @@ Echo is the reflections of far-end speech which is being played out through a lo
 In this work, The echo distraction at the near-end microphone has been significantly suppressed through our proposed modulation domain signal processing approach. The modulation domain processing is compared against the frequency domain approach proposed by Feller et.al, and this implimentation is also included in the file list.
 
 # Description of the functions
-**modulation_domain.m**: The proposed modulation domain echo cancellation script
+**modulation_domain.m**: The proposed modulation domain echo cancellation script\\
 **rir.m**: Room impulse response of which echo cancelled, being called Online inside the above function for echo signal generation
 **enframe.m, overlapadd.m**: signal framing and overlap add reconstruction
 **feller.m**: Impimentation of frequency domain echo suppression by Feller at.al
