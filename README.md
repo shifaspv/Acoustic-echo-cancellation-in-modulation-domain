@@ -1,7 +1,7 @@
 # Echo-cancellation
 This repository contains the code of our recently proposed modulation domain acoustic echo cancellation.
-Echo is the reflections of far-end speech being played out through a loud speaker in an end-to-end communication.
-The echo distraction at the microphone is being suppressed significantly through our proposed modulation domain signal processing approach. 
+Echo is the reflections of far-end speech which is being played out through a loud speaker in an end-to-end side of a communication channel.
+In this work, The echo distraction at the near-end microphone has been significantly suppressed through our proposed modulation domain signal processing approach. The modulation domain processing is compared against the frequency domain approach proposed by Feller et.al, and this implimentation is also included in the file list.
 
 # Paper to Cite
 Those using this code are kindly requested to site our paper on this topic::
